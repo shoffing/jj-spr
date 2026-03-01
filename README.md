@@ -239,5 +239,3 @@ Super Pull Requests builds on the foundation of:
 ## License
 
 MIT License - see [LICENSE](./LICENSE) for details.
-
-## Test
